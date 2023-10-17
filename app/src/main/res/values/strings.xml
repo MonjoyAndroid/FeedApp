@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Feed App</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="enter_login_desc">Enter your login credentials below to access your account</string>
+
+    <string name="pass">Password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="username_pass_mandatory">Username and Password are mandatory</string>
+    <string name="user_not_exist">User not exist</string>
+    <string name="wrong_password">Password is wrong</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="enter_confirm_password">Confirm your password</string>
+    <string name="need_signup">Not registered? Signup</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="username">User Name</string>
+    <string name="enter_username">Enter your Username</string>
+    <string name="remember_me">Remember me</string>
+    <string name="ok">Ok</string>
+    <string name="alert">Alert</string>
+    <string name="pass_suggestion_msg">Password must be at least 8 characters, It includes 1 uppercase, 1 lowercase, 1 special character and 1 numeric character</string>
+    <string name="no_internet">Please check your internet connection</string>
+    <string name="password_not_valid">Password is not valid</string>
+    <string name="password_confirm_password_not_matching">Password and Confirm Password are not matching</string>
+    <string name="user_already_registered">User already registered</string>
+    <string name="user_registered">User registered successfully</string>
+    <string name="check_internet_connection">Please check your internet connection</string>
+    <string name="list_of_feed">List of Feeds</string>
+</resources>
